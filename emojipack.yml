@@ -24,9 +24,6 @@ emojis:
   - name: aarp
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/aarp.jpg
-  - name: aaw_yeah
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/aaw_yeah.gif
   - name: abacus
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/abacus.png
@@ -69,9 +66,6 @@ emojis:
   - name: amnesty
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/amnesty.png
-  - name: amy
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/amy.png
   - name: anarchy
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/anarchy.png
@@ -84,9 +78,6 @@ emojis:
   - name: angerpixar
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/angerpixar.gif
-  - name: angry_confused_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/angry_confused_panda.jpg
   - name: angryannie
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/angryannie.jpg
@@ -255,9 +246,6 @@ emojis:
   - name: awyeah
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/awyeah.png
-  - name: axe_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/axe_panda.jpg
   - name: baby-owl
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/baby-owl.png
@@ -342,24 +330,15 @@ emojis:
   - name: bb8roll
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bb8roll.gif
-  - name: beamsword
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/beamsword.png
   - name: bean
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bean.jpg
-  - name: bearhug
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bearhug.gif
   - name: beastcoast
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/beastcoast.jpg
   - name: belichick
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/belichick.jpg
-  - name: belligerent_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/belligerent_panda.jpg
   - name: bender
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bender.png
@@ -369,9 +348,6 @@ emojis:
   - name: bern
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bern.jpg
-  - name: berry
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/berry.png
   - name: bestcoast
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bestcoast.jpg
@@ -393,9 +369,6 @@ emojis:
   - name: beyoncemoji
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/beyoncemoji.png
-  - name: bezos
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bezos.png
   - name: bi_flag
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bi_flag.png
@@ -441,9 +414,6 @@ emojis:
   - name: bleach
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bleach.jpg
-  - name: bleeding_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bleeding_panda.png
   - name: blob
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/blob.png
@@ -456,18 +426,12 @@ emojis:
   - name: bluescluesparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bluescluesparrot.gif
-  - name: bluesteel
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bluesteel.gif
   - name: boba
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/boba.png
   - name: boba_tea
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/boba_tea.jpg
-  - name: bobross
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bobross.png
   - name: bojack-2
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bojack-2.png
@@ -489,9 +453,6 @@ emojis:
   - name: boot-edge-edge
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/boot-edge-edge.png
-  - name: boots
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/boots.png
   - name: borat
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/borat.png
@@ -525,9 +486,6 @@ emojis:
   - name: brewers
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/brewers.png
-  - name: bro
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bro.png
   - name: broccoliobama
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/broccoliobama.jpg
@@ -564,9 +522,6 @@ emojis:
   - name: bulbasaur
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bulbasaur.gif
-  - name: bully
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bully.gif
   - name: bumble
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/bumble.png
@@ -585,9 +540,6 @@ emojis:
   - name: burn
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/burn.gif
-  - name: business_cat
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/business_cat.png
   - name: businesscat
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/businesscat.jpg
@@ -600,9 +552,6 @@ emojis:
   - name: buttigiegwut
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/buttigiegwut.gif
-  - name: cactuar
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cactuar.jpg
   - name: cadbury
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cadbury.png
@@ -615,18 +564,12 @@ emojis:
   - name: cake2
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cake2.png
-  - name: cakealice
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cakealice.png
   - name: cakeisalie
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cakeisalie.jpg
   - name: cando
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cando.gif
-  - name: cando
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cando.png
   - name: candycorn
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/candycorn.png
@@ -651,9 +594,6 @@ emojis:
   - name: caruso
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/caruso.png
-  - name: cash
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cash.png
   - name: cat_typing
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cat_typing.gif
@@ -747,9 +687,6 @@ emojis:
   - name: chompy
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/chompy.gif
-  - name: chopper
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/chopper.png
   - name: christmasparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/christmasparrot.gif
@@ -771,9 +708,6 @@ emojis:
   - name: clippy
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/clippy.gif
-  - name: close_airquotes
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/close_airquotes.gif
   - name: closedflannel
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/closedflannel.png
@@ -792,21 +726,12 @@ emojis:
   - name: coffeeparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/coffeeparrot.gif
-  - name: coin
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/coin.gif
   - name: cokezero
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cokezero.jpg
-  - name: cold_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cold_panda.jpg
   - name: comeon
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/comeon.gif
-  - name: comic_sans
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/comic_sans.png
   - name: companioncube
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/companioncube.jpg
@@ -831,9 +756,6 @@ emojis:
   - name: confusedparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/confusedparrot.gif
-  - name: congacanary
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/congacanary.gif
   - name: congaparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/congaparrot.gif
@@ -855,12 +777,6 @@ emojis:
   - name: cool-doge
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cool-doge.gif
-  - name: cool_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cool_panda.jpg
-  - name: coolbeans
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/coolbeans.png
   - name: coolio
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/coolio.png
@@ -885,18 +801,9 @@ emojis:
   - name: cowboy
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cowboy.jpg
-  - name: crankykong
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/crankykong.gif
-  - name: crickets
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/crickets.png
   - name: cringe_face
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cringe_face.jpg
-  - name: crit
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/crit.png
   - name: crossed
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/crossed.png
@@ -924,9 +831,6 @@ emojis:
   - name: cryptoparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cryptoparrot.gif
-  - name: cthulhu
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cthulhu.gif
   - name: cthulhu
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/cthulhu.png
@@ -966,9 +870,6 @@ emojis:
   - name: dance
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dance.gif
-  - name: dancing_corgi
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dancing_corgi.gif
   - name: dancingbanana
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dancingbanana.gif
@@ -996,12 +897,6 @@ emojis:
   - name: deadpool
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/deadpool.jpg
-  - name: deal-with-it-parrot
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/deal-with-it-parrot.gif
-  - name: deal
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/deal.png
   - name: dealwithit
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dealwithit.gif
@@ -1011,21 +906,9 @@ emojis:
   - name: democrats
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/democrats.png
-  - name: depressed_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/depressed_panda.jpg
   - name: derp
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/derp.png
-  - name: design_eye
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/design_eye.png
-  - name: design_unicorn
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/design_unicorn.png
-  - name: destroyer_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/destroyer_panda.jpg
   - name: detox
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/detox.gif
@@ -1050,18 +933,12 @@ emojis:
   - name: disco
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/disco.gif
-  - name: disco_ball
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/disco_ball.png
   - name: discodancer
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/discodancer.gif
   - name: discoparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/discoparrot.gif
-  - name: discopidgeon
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/discopidgeon.gif
   - name: disguise
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/disguise.jpg
@@ -1071,9 +948,6 @@ emojis:
   - name: ditto
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ditto.gif
-  - name: dna
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dna.png
   - name: do-it
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/do-it.gif
@@ -1143,15 +1017,6 @@ emojis:
   - name: downvote
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/downvote.png
-  - name: doyle
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/doyle.png
-  - name: dracarys
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dracarys.gif
-  - name: dragon_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dragon_panda.jpg
   - name: drake-no
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/drake-no.png
@@ -1182,27 +1047,15 @@ emojis:
   - name: drool
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/drool.png
-  - name: dropkick_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dropkick_panda.jpg
   - name: drumpf
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/drumpf.png
-  - name: drums
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/drums.png
   - name: drupal
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/drupal.png
-  - name: duckhunt
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/duckhunt.gif
   - name: duckhuntdog
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/duckhuntdog.gif
-  - name: ducky
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ducky.png
   - name: ducreux
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ducreux.png
@@ -1215,12 +1068,6 @@ emojis:
   - name: dumpster_fire
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dumpster_fire.gif
-  - name: dumpster_fire
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dumpster_fire.png
-  - name: dumpster_fire2
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dumpster_fire2.jpg
   - name: dumpsterfire
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/dumpsterfire.gif
@@ -1251,12 +1098,6 @@ emojis:
   - name: eliface
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/eliface.jpg
-  - name: elon
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/elon.png
-  - name: ember
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ember.png
   - name: emortji
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/emortji.png
@@ -1269,9 +1110,6 @@ emojis:
   - name: evilburns
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/evilburns.png
-  - name: exacto
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/exacto.png
   - name: excellent
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/excellent.png
@@ -1296,9 +1134,6 @@ emojis:
   - name: fail_stamp
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/fail_stamp.png
-  - name: fail_whale
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/fail_whale.png
   - name: failed
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/failed.png
@@ -1329,9 +1164,6 @@ emojis:
   - name: fiestaparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/fiestaparrot.gif
-  - name: figma
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/figma.png
   - name: finder
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/finder.png
@@ -1362,27 +1194,18 @@ emojis:
   - name: flamingo
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/flamingo.png
-  - name: flirty_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/flirty_panda.jpg
   - name: florida
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/florida.gif
   - name: floss
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/floss.gif
-  - name: flying_pig
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/flying_pig.png
   - name: flyrod
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/flyrod.jpg
   - name: foff
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/foff.gif
-  - name: fonz
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/fonz.png
   - name: fonzie
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/fonzie.png
@@ -1419,15 +1242,9 @@ emojis:
   - name: funk
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/funk.png
-  - name: furious_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/furious_panda.jpg
   - name: fwp
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/fwp.png
-  - name: galleon
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/galleon.png
   - name: gangnamstyle
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/gangnamstyle.gif
@@ -1464,9 +1281,6 @@ emojis:
   - name: glassesgirl
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/glassesgirl.gif
-  - name: go-team
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/go-team.png
   - name: goldenstatebear
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/goldenstatebear.png
@@ -1488,21 +1302,12 @@ emojis:
   - name: gothparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/gothparrot.gif
-  - name: graphql
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/graphql.png
-  - name: grassy_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/grassy_panda.jpg
   - name: grayduck
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/grayduck.png
   - name: great
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/great.jpg
-  - name: green_wave
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/green_wave.png
   - name: greenbeer
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/greenbeer.png
@@ -1536,9 +1341,6 @@ emojis:
   - name: gudetama
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/gudetama.png
-  - name: guy_fiero
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/guy_fiero.png
   - name: habitat
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/habitat.png
@@ -1563,9 +1365,6 @@ emojis:
   - name: hammertime
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hammertime.gif
-  - name: hand_with_fingers_crossed
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hand_with_fingers_crossed.png
   - name: handofqueen
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/handofqueen.png
@@ -1581,9 +1380,6 @@ emojis:
   - name: happy_afro
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/happy_afro.png
-  - name: happygoat
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/happygoat.gif
   - name: happyowl
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/happyowl.jpg
@@ -1599,54 +1395,21 @@ emojis:
   - name: harrypotterparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/harrypotterparrot.gif
-  - name: hate_mail
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hate_mail.png
   - name: haveaseat
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/haveaseat.png
-  - name: headbang
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/headbang.gif
   - name: headdesk
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/headdesk.gif
   - name: hehe-matteo
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hehe-matteo.png
-  - name: helix_hi_five
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/helix_hi_five.png
-  - name: helix_searching
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/helix_searching.png
-  - name: helix_shrug
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/helix_shrug.png
-  - name: helix_thinking
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/helix_thinking.png
   - name: helper
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/helper.png
   - name: hero
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hero.jpg
-  - name: hexagon
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hexagon.gif
-  - name: hexie_hi_five
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hexie_hi_five.png
-  - name: hexie_searching
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hexie_searching.png
-  - name: hexie_shrug
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hexie_shrug.png
-  - name: hexie_thinking
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hexie_thinking.png
   - name: heygirl
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/heygirl.png
@@ -1668,18 +1431,12 @@ emojis:
   - name: hipster
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hipster.png
-  - name: hockey
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hockey.png
   - name: hodor
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hodor.png
   - name: holygrail
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/holygrail.png
-  - name: homestarrunner
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/homestarrunner.gif
   - name: homestarrunner
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/homestarrunner.png
@@ -1692,12 +1449,6 @@ emojis:
   - name: horsehead
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/horsehead.png
-  - name: horsejs
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/horsejs.png
-  - name: horseshit
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/horseshit.png
   - name: hotdish
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hotdish.png
@@ -1716,12 +1467,6 @@ emojis:
   - name: huh
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/huh.png
-  - name: hula
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hula.jpg
-  - name: hulahoop_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hulahoop_panda.gif
   - name: hurry
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/hurry.gif
@@ -1746,9 +1491,6 @@ emojis:
   - name: ilied
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ilied.png
-  - name: iliketurtles
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/iliketurtles.png
   - name: illuminati
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/illuminati.gif
@@ -1812,15 +1554,6 @@ emojis:
   - name: jandocparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jandocparrot.gif
-  - name: javascript
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/javascript.jpg
-  - name: jayz
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jayz.png
-  - name: jazz_hands
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jazz_hands.gif
   - name: jbp
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jbp.png
@@ -1833,15 +1566,6 @@ emojis:
   - name: jellybean
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jellybean.jpg
-  - name: jenkins
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jenkins.png
-  - name: jenkinsmad
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jenkinsmad.png
-  - name: jerky
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jerky.png
   - name: jillytroll
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jillytroll.png
@@ -1857,9 +1581,6 @@ emojis:
   - name: jobs
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/jobs.png
-  - name: joecool
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/joecool.png
   - name: joffrey
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/joffrey.png
@@ -1902,36 +1623,21 @@ emojis:
   - name: kanye
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kanye.gif
-  - name: kanye
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kanye.png
-  - name: kanye_shrug
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kanye_shrug.png
   - name: kanyeshrug
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kanyeshrug.png
   - name: kaschmoney
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kaschmoney.png
-  - name: keep_calm
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/keep_calm.png
   - name: kennedy
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kennedy.jpg
   - name: kennypowers
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kennypowers.png
-  - name: kevin
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kevin.png
   - name: kickass
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kickass.png
-  - name: kirby
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kirby.gif
   - name: koffing
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/koffing.gif
@@ -1944,9 +1650,6 @@ emojis:
   - name: krang
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/krang.png
-  - name: kruger
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kruger.png
   - name: kwanzaa
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/kwanzaa.png
@@ -1986,21 +1689,12 @@ emojis:
   - name: lbg4
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/lbg4.png
-  - name: leaf-totoro
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/leaf-totoro.jpg
-  - name: leave_now_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/leave_now_panda.jpg
   - name: lebowski
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/lebowski.png
   - name: left-fist
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/left-fist.png
-  - name: left_shark
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/left_shark.gif
   - name: leftshark
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/leftshark.png
@@ -2043,9 +1737,6 @@ emojis:
   - name: linux
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/linux.png
-  - name: liz
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/liz.gif
   - name: lizistatedigital
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/lizistatedigital.jpg
@@ -2055,18 +1746,9 @@ emojis:
   - name: lobstah
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/lobstah.jpg
-  - name: log
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/log.png
   - name: lol
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/lol.png
-  - name: lolface
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/lolface.png
-  - name: lolsob
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/lolsob.png
   - name: lolwut
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/lolwut.png
@@ -2100,18 +1782,12 @@ emojis:
   - name: magic
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/magic.png
-  - name: magic_wand
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/magic_wand.png
   - name: magikarp
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/magikarp.gif
   - name: makeitso
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/makeitso.gif
-  - name: manatee
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/manatee.jpg
   - name: mandarinduck
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/mandarinduck.png
@@ -2148,9 +1824,6 @@ emojis:
   - name: mario_luigi_dance
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/mario_luigi_dance.gif
-  - name: marioandluigi
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/marioandluigi.gif
   - name: mars
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/mars.jpg
@@ -2169,9 +1842,6 @@ emojis:
   - name: meanwhile
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/meanwhile.gif
-  - name: medicalmarijuana
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/medicalmarijuana.png
   - name: meerkat
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/meerkat.jpg
@@ -2202,18 +1872,12 @@ emojis:
   - name: mets
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/mets.jpg
-  - name: mic_drop
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/mic_drop.png
   - name: michael
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/michael.png
   - name: michelin-star
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/michelin-star.png
-  - name: mickey
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/mickey.png
   - name: middleparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/middleparrot.gif
@@ -2274,9 +1938,6 @@ emojis:
   - name: mole
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/mole.gif
-  - name: moonwalk_parrot
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/moonwalk_parrot.gif
   - name: moonwalkingparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/moonwalkingparrot.gif
@@ -2286,9 +1947,6 @@ emojis:
   - name: more_you_know
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/more_you_know.jpg
-  - name: morgan
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/morgan.png
   - name: morty
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/morty.png
@@ -2346,9 +2004,6 @@ emojis:
   - name: nats
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nats.png
-  - name: nauseated
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nauseated.png
   - name: nbc
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nbc.png
@@ -2376,9 +2031,6 @@ emojis:
   - name: newman
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/newman.png
-  - name: newswire_direct
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/newswire_direct.png
   - name: nextgendev
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nextgendev.png
@@ -2406,15 +2058,9 @@ emojis:
   - name: nj
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nj.png
-  - name: no_moon
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/no_moon.jpg
   - name: nocat
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nocat.png
-  - name: nocoffee
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nocoffee.png
   - name: nofun
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nofun.png
@@ -2439,18 +2085,6 @@ emojis:
   - name: noproblemo
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/noproblemo.jpg
-  - name: north_star
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/north_star.png
-  - name: not_bad
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/not_bad.jpg
-  - name: not_listening
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/not_listening.png
-  - name: not_sure
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/not_sure.png
   - name: notbad
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/notbad.png
@@ -2478,9 +2112,6 @@ emojis:
   - name: nyan
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nyan.gif
-  - name: nyancat
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nyancat.gif
   - name: nyanparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/nyanparrot.gif
@@ -2526,15 +2157,9 @@ emojis:
   - name: oof
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/oof.jpg
-  - name: ooohwee
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ooohwee.png
   - name: open-britain
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/open-britain.png
-  - name: open_airquotes
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/open_airquotes.gif
   - name: open_mouth_psycho
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/open_mouth_psycho.gif
@@ -2553,9 +2178,6 @@ emojis:
   - name: opra
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/opra.jpg
-  - name: oreo
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/oreo.png
   - name: oriolesparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/oriolesparrot.gif
@@ -2574,9 +2196,6 @@ emojis:
   - name: otter
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/otter.jpg
-  - name: otter_dance
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/otter_dance.gif
   - name: ouroboros
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ouroboros.png
@@ -2631,9 +2250,6 @@ emojis:
   - name: papertowels
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/papertowels.jpg
-  - name: parrot-wave-1
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/parrot-wave-1.gif
   - name: parrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/parrot.gif
@@ -2688,9 +2304,6 @@ emojis:
   - name: partypoop
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/partypoop.gif
-  - name: partypopper
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/partypopper.png
   - name: partypuffin
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/partypuffin.png
@@ -2745,9 +2358,6 @@ emojis:
   - name: pi
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pi.jpg
-  - name: picard
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/picard.png
   - name: pickle_rick
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pickle_rick.png
@@ -2757,9 +2367,6 @@ emojis:
   - name: pidepider
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pidepider.png
-  - name: pie_slice
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pie_slice.png
   - name: pierre
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pierre.png
@@ -2769,9 +2376,6 @@ emojis:
   - name: pikachu
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pikachu.gif
-  - name: pikachu
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pikachu.png
   - name: pinching
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pinching.png
@@ -2790,15 +2394,6 @@ emojis:
   - name: plaid
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/plaid.png
-  - name: plant
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/plant.png
-  - name: platform
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/platform.png
-  - name: plm
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/plm.png
   - name: plus1
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/plus1.png
@@ -2808,21 +2403,9 @@ emojis:
   - name: pokeball
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pokeball.jpg
-  - name: pokeball
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pokeball.png
   - name: pokerface
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pokerface.png
-  - name: poking_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/poking_panda.gif
-  - name: pong
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pong.png
-  - name: pony
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pony.png
   - name: popcornparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/popcornparrot.gif
@@ -2844,27 +2427,15 @@ emojis:
   - name: present
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/present.png
-  - name: pretzels
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pretzels.png
-  - name: pride-parrot
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pride-parrot.gif
   - name: prideparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/prideparrot.gif
   - name: pridethumb
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pridethumb.png
-  - name: prince_sign
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/prince_sign.png
   - name: princesign
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/princesign.jpg
-  - name: prosper
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/prosper.png
   - name: puffin
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/puffin.png
@@ -2874,15 +2445,9 @@ emojis:
   - name: pumpkin
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/pumpkin.png
-  - name: punching_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/punching_panda.jpg
   - name: punhusky
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/punhusky.gif
-  - name: punpunpun
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/punpunpun.png
   - name: python
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/python.png
@@ -2925,9 +2490,6 @@ emojis:
   - name: rbgcrown
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/rbgcrown.jpg
-  - name: react
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/react.png
   - name: really
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/really.gif
@@ -2964,9 +2526,6 @@ emojis:
   - name: resist_fist
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/resist_fist.png
-  - name: retainer
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/retainer.png
   - name: reversecongaparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/reversecongaparrot.gif
@@ -3000,12 +2559,6 @@ emojis:
   - name: rip
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/rip.png
-  - name: robot_jazz_hands
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/robot_jazz_hands.png
-  - name: rock-on
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/rock-on.png
   - name: rockon
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/rockon.gif
@@ -3051,12 +2604,6 @@ emojis:
   - name: sad-matteo
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sad-matteo.png
-  - name: sad_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sad_panda.jpg
-  - name: sad_panda_2
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sad_panda_2.jpg
   - name: sadiq
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sadiq.png
@@ -3069,9 +2616,6 @@ emojis:
   - name: sadpoo
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sadpoo.png
-  - name: sadpoop
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sadpoop.png
   - name: sadpuppydog
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sadpuppydog.jpg
@@ -3126,18 +2670,12 @@ emojis:
   - name: sc-mole
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sc-mole.png
-  - name: scared_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/scared_panda.jpg
   - name: scienceparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/scienceparrot.gif
   - name: scientist
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/scientist.jpg
-  - name: scotch
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/scotch.jpg
   - name: scotch
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/scotch.png
@@ -3159,9 +2697,6 @@ emojis:
   - name: sethseal
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sethseal.png
-  - name: shadow_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/shadow_panda.jpg
   - name: shailbug-surprise
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/shailbug-surprise.jpg
@@ -3204,9 +2739,6 @@ emojis:
   - name: siren
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/siren.gif
-  - name: ski-parrot
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ski-parrot.gif
   - name: skiparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/skiparrot.gif
@@ -3225,9 +2757,6 @@ emojis:
   - name: slowmoparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/slowmoparrot.gif
-  - name: slowpoke
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/slowpoke.jpg
   - name: smart
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/smart.gif
@@ -3249,9 +2778,6 @@ emojis:
   - name: snorlaxheart
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/snorlaxheart.png
-  - name: snowblower
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/snowblower.gif
   - name: socrazy
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/socrazy.gif
@@ -3279,9 +2805,6 @@ emojis:
   - name: sosayweall
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sosayweall.jpg
-  - name: soup
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/soup.jpg
   - name: sourcetree
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sourcetree.png
@@ -3303,9 +2826,6 @@ emojis:
   - name: spirit
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/spirit.png
-  - name: spitting_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/spitting_panda.jpg
   - name: spongebob
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/spongebob.png
@@ -3318,12 +2838,6 @@ emojis:
   - name: squirtle
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/squirtle.gif
-  - name: squirtle
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/squirtle.png
-  - name: stable-parrot
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/stable-parrot.gif
   - name: stableparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/stableparrot.gif
@@ -3333,9 +2847,6 @@ emojis:
   - name: standup
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/standup.gif
-  - name: star3
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/star3.gif
   - name: stare
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/stare.png
@@ -3351,12 +2862,6 @@ emojis:
   - name: stash
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/stash.png
-  - name: stickman
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/stickman.png
-  - name: stoned
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/stoned.png
   - name: stoofer
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/stoofer.jpg
@@ -3369,21 +2874,12 @@ emojis:
   - name: strongbad
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/strongbad.png
-  - name: subaru
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/subaru.png
   - name: success
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/success.png
-  - name: success_kid
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/success_kid.png
   - name: successful
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/successful.png
-  - name: sunny_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sunny_panda.jpg
   - name: superhero
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/superhero.jpg
@@ -3393,9 +2889,6 @@ emojis:
   - name: swarm
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/swarm.png
-  - name: swedish_fish
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/swedish_fish.png
   - name: sweetbelly
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/sweetbelly.jpg
@@ -3423,9 +2916,6 @@ emojis:
   - name: taft
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/taft.png
-  - name: takemymoney
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/takemymoney.png
   - name: tardis
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/tardis.gif
@@ -3459,15 +2949,9 @@ emojis:
   - name: thecorrespondent
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/thecorrespondent.png
-  - name: themoreyouknow
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/themoreyouknow.jpg
   - name: theport
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/theport.png
-  - name: therealwat
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/therealwat.jpg
   - name: theyregreat
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/theyregreat.png
@@ -3480,9 +2964,6 @@ emojis:
   - name: thisgirlcan
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/thisgirlcan.jpg
-  - name: thisisfine
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/thisisfine.gif
   - name: thisisfine
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/thisisfine.png
@@ -3504,9 +2985,6 @@ emojis:
   - name: tinfoil
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/tinfoil.gif
-  - name: tip_hat
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/tip_hat.png
   - name: tmyk
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/tmyk.jpg
@@ -3525,18 +3003,9 @@ emojis:
   - name: torchy
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/torchy.png
-  - name: totoro-friends
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/totoro-friends.png
-  - name: totoro
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/totoro.png
   - name: toucan
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/toucan.png
-  - name: trans-hearts
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/trans-hearts.png
   - name: trans_pride_flag
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/trans_pride_flag.png
@@ -3558,9 +3027,6 @@ emojis:
   - name: trex
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/trex.jpg
-  - name: trireme
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/trireme.png
   - name: troll2
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/troll2.jpg
@@ -3576,9 +3042,6 @@ emojis:
   - name: trump
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/trump.png
-  - name: trumpdump
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/trumpdump.png
   - name: trumpyell
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/trumpyell.png
@@ -3639,9 +3102,6 @@ emojis:
   - name: unicorn
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/unicorn.png
-  - name: unimpressed_panda
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/unimpressed_panda.jpg
   - name: unknown
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/unknown.png
@@ -3666,9 +3126,6 @@ emojis:
   - name: valor
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/valor.jpg
-  - name: valor
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/valor.png
   - name: vanjie
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/vanjie.png
@@ -3684,15 +3141,9 @@ emojis:
   - name: vermont
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/vermont.jpg
-  - name: veryfrown
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/veryfrown.png
   - name: viridian
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/viridian.png
-  - name: vomit
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/vomit.gif
   - name: vomit
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/vomit.jpg
@@ -3711,18 +3162,9 @@ emojis:
   - name: wael
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/wael.png
-  - name: wait_im_drinking
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/wait_im_drinking.png
   - name: waiting
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/waiting.gif
-  - name: waldo
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/waldo.png
-  - name: walking_zombie
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/walking_zombie.gif
   - name: walter
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/walter.png
@@ -3738,9 +3180,6 @@ emojis:
   - name: watface
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/watface.jpg
-  - name: wcgw
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/wcgw.png
   - name: weebey
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/weebey.gif
@@ -3756,9 +3195,6 @@ emojis:
   - name: what-matteo
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/what-matteo.png
-  - name: whatday
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/whatday.gif
   - name: whatever-matteo
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/whatever-matteo.png
@@ -3771,9 +3207,6 @@ emojis:
   - name: whoa
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/whoa.png
-  - name: why
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/why.png
   - name: whynotboth
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/whynotboth.gif
@@ -3783,21 +3216,12 @@ emojis:
   - name: wisconsin
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/wisconsin.png
-  - name: witness_protection_parrot
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/witness_protection_parrot.gif
   - name: witnessprotectionparrot
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/witnessprotectionparrot.gif
   - name: wizard
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/wizard.png
-  - name: wohoo
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/wohoo.gif
-  - name: wonder
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/wonder.png
   - name: woo
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/woo.gif
@@ -3825,24 +3249,15 @@ emojis:
   - name: yak
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yak.png
-  - name: yakshaving
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yakshaving.png
   - name: yanks
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yanks.jpg
-  - name: yas
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yas.jpg
   - name: yasgawd
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yasgawd.gif
   - name: yaskween
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yaskween.gif
-  - name: yay
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yay.png
   - name: yellow-mango
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yellow-mango.png
@@ -3858,33 +3273,9 @@ emojis:
   - name: yodawg
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yodawg.png
-  - name: yolo
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yolo.jpg
   - name: yorkshiretea
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yorkshiretea.png
-  - name: yoshi-carry
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yoshi-carry.png
-  - name: yoshi-duck
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yoshi-duck.png
-  - name: yoshi-excited
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yoshi-excited.png
-  - name: yoshi-spin
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yoshi-spin.gif
-  - name: yoshi-yell
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yoshi-yell.png
-  - name: yoshi
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yoshi.png
-  - name: you
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/you.png
   - name: youdontsay
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/youdontsay.png
@@ -3897,9 +3288,6 @@ emojis:
   - name: ytho
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/ytho.jpg
-  - name: yuno
-    src: >-
-      https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yuno.jpg
   - name: yuno
     src: >-
       https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/emoji/yuno.png
