@@ -3,8 +3,7 @@
   "description": "Custom Slack emojis from team PLM",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {
-  },
+  "dependencies": {},
   "scripts": {
     "download": "./scripts/download-emojis.js",
     "emojipack": "./scripts/write-emojipack.js",

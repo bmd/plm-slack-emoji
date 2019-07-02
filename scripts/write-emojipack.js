@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const EMOJI_DIR = 'emoji';
-const GITHUB_URL = `https://raw.githubusercontent.com/okize/plm-slack-emoji/master/${EMOJI_DIR}`;
+const GITHUB_URL = `https://raw.githubusercontent.com/thinkbrown/plm-slack-emoji/master/${EMOJI_DIR}`;
 
 const emojis = fs.readdirSync(path.normalize(`./${EMOJI_DIR}`));
 
